@@ -1,4 +1,4 @@
-# HRMS Lite – Human Resource Management System
+# Human Resource Management System
 
 **Human Resource Management System** built with **React + Javascript** (frontend) and **FastAPI + Python** (backend), featuring a professional UI,stats dashboard, employee management, and attendance tracking.
 
